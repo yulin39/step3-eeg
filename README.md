@@ -2,3 +2,4 @@
 pip install eeg 
 pip install gdown
 # step3-eeg
+详情见voscode
